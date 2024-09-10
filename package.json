@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-aggregation-task",
+  "version": "1.0.0",
+  "description": "Task to practice MongoDB aggregation using match, group, and sort stages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NFThing",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  }
+}
